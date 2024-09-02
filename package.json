@@ -1,0 +1,16 @@
+{
+  "name": "@supabase-kit/template",
+  "module": "supabase/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prima": "^0.0.1",
+    "prisma-import": "^1.0.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.19.0"
+  }
+}
